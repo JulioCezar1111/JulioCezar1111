@@ -16,6 +16,9 @@
   <img align="center" alt="Julio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Julio-.Net" height="30" width="40" src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white>
   <img align="center" alt="Julio-C++" height="30" width="40" src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white>
+  <img align="center" alt="Julio-Arduino" height="30" width="40" src=https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white>
+  <img align="center" alt="Julio-Pycharm" height="30" width="40" src=https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white>
+  <img align="center" alt="Julio-VS height="30" width="40" src=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white>
 </div>
   
   ##
