@@ -12,7 +12,7 @@
 
 <div style="display: inline_block"><br>
 
-
+ ## 💻📚Conhecimento
   
 <img align="center" alt="Julio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Julio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -22,7 +22,20 @@
 <img align="center" alt="Julio-Pycharm" height="40" width="100" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 <img align="center" alt="Julio-VS" height="40" width="100" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </div>
-  
+
+
+## 💸Investimento
+
+<img align="center" alt="Julio-Binace" height="40" width="100" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
+<img align="center" alt="Julio-Bitcoin" height="40" width="100" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
+
+
+
+## 🎮Game
+
+<img align="center" alt="Julio-Play" height="40" width="100" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
+
+
   ##
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
