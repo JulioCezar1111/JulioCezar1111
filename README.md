@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JulioCezar
 - 👀 I’m interested in  programação, desenvolvedor .Net
-- 🌱 I’m currently learning  inteligencia artificial
+- 🌱 I’m currently learning  engenharia de controle e automação; inteligencia artificial
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me celular: 96347-9497. email: julio.izidoro173@gmail.com
 
