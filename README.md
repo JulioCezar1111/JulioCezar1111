@@ -21,6 +21,8 @@
 <img align="center" alt="Julio-Arduino" height="40" width="100" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img align="center" alt="Julio-Pycharm" height="40" width="100" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 <img align="center" alt="Julio-VS" height="40" width="100" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+<img align="center" alt="Julio-Blender" height="40" width="100" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+<img align="center" alt="Julio-colab" height="40" width="100" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 </div>
 
 ## 🖥Office
